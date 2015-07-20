@@ -1,34 +1,4 @@
-function getColor(counts, element) {
-    function(dataBack) {
-        var counts = databack.counts.json;
-    }
-    $(element).append(counts.length)
-    badges.forEach(function(imgs))
-}
 
-/*!
-
- */
-
-;(function($) {
-
-    $(document).ready(function() {
-        var imageList = $('.insignia');
-        for(var i = 0; i < imageList.length; i++){
-            var insigniaEntry = imageList[i];
-            $(insigniaEntry).insignia(insigniaEntry.dataset.treehouse, insigniaEntry.dataset.codeschool);
-        }
-    });
-
-    $.fn.insignia = function(usernameTreehouse, usernameCodeschool) {
-        this.empty();
-        if (usernameTreehouse) {
-            getBadges(usernameTreehouse, this);
-        }
-        if (usernameCodeschool) {
-            getImages(usernameCodeschool, this);
-        }
-    }
 
     function getImages(usernameCodeschool, element) {
         $.ajax({
@@ -54,4 +24,3 @@ function getColor(counts, element) {
         });
     }
 
-}(jQuery));
