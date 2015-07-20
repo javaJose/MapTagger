@@ -1,6 +1,6 @@
 
 
-    function getImages(usernameCodeschool, element) {
+    function getImages(item, element) {
         $.ajax({
             url: "https://s3.amazonaws.com/intern-coding-challenge/counts.json" + ".json",
             type: "GET",
