@@ -1,22 +1,26 @@
-#SkyEye
+#SkyDemon
 ###Maps and Tags
 
-SkyEye shows images and allows you to tag them with colors
+SkyDemon deems you worthy of his data as a pdf or as a spreadsheet.
 
 xx.js does not return images
 
--[click here to go to SkyEye.com](http://weblab.us/Jose/SkyEye/)
-####SkyEye Console:
+-[click here to go to SkyEye.com](http://weblab.us/Jose/SkyDemon/)  
+-[click here to see SkyData](http://weblab.us/Jose/SkyEye/SkyData.pdf)  
+   
+   
+####SkyDemon Console:
 
 
 ```
-SkyEye url: https://s3.amazonaws.com/intern-coding-challenge/counts.json
-index.html:33 SkyEye status: OK
-index.html:34 SkyEye ready?: 200
-index.html:35 SkyEye headers: 2
-index.html:36 SkyEye readyState: 4
-index.html:37 SkyEye json:
-index.html:38 {
+SkyDemon url: https://s3.amazonaws.com/intern-coding-challenge/counts.json
+index.html:33 SkyDemon status: OK
+index.html:34 SkyDemon ready?: 200
+index.html:35 SkyDemon headers: 2
+index.html:36 SkyDemon readyState: 4
+index.html:37 SkyDemon length: 1081
+index.html:38 SkyDemon json: 
+index.html:39 {
 "tags": [
 {
 "type_id": "118",
@@ -74,5 +78,5 @@ index.html:38 {
 "status": 1,
 "msg": "Counted 0 taggers in last 5 minutes"
 }
-index.html:42 Welcome to SkyEye
-```#MapTagger
+SkyDemon bids you Welcome
+```
