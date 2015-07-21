@@ -5,8 +5,8 @@ SkyDemon deems you worthy of his data as a pdf or as a spreadsheet.
 
 xx.js does not return images
 
--[click here to go to SkyEye.com](http://weblab.us/Jose/SkyDemon/)  
--[click here to see SkyData](http://weblab.us/Jose/SkyEye/SkyData.pdf)  
+-[click here to go to SkyDemon.com](http://weblab.us/Jose/SkyDemon/)  
+-[click here to see SkyData](http://weblab.us/Jose/SkyDemon/SkyDatap.pdf)  
    
    
 ####SkyDemon Console:
